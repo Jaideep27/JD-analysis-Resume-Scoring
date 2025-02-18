@@ -1,0 +1,11 @@
+{
+  "criteria": [
+    "*   LLM Expertise",
+    "*   RAG & Vector Databases",
+    "*   Azure AI Services",
+    "*   MLOps & CI/CD",
+    "*   Database Proficiency",
+    "*   Libraries & Frameworks"
+  ],
+  "criteria_type": "skills"
+}

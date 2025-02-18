@@ -1,0 +1,7 @@
+{
+  "criteria": [
+    "*   AWS Certified Solutions Architect",
+    "*   Azure AI Engineer"
+  ],
+  "criteria_type": "certifications"
+}
