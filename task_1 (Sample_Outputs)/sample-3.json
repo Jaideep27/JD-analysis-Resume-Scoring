@@ -1,0 +1,9 @@
+{
+  "criteria": [
+    "*   Python",
+    "*   TensorFlow",
+    "*   PyTorch",
+    "*   LangChain"
+  ],
+  "criteria_type": "languages"
+}
